@@ -1,6 +1,6 @@
-### Hi there 👋
+### About me :writing_hand:
 
-**Lukas-Trisauskas/Lukas-Trisauskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! My name is Lukas. I study Computer Science at the University of Lincoln. My main interests are, software engineering, web development, networking, and embedded programming.
 
 - 🔭 I’m currently working on my personal blog.
 - 🌱 I’m currently learning RESTful API's and Python requests
