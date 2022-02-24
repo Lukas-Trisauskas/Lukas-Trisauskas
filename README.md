@@ -1,7 +1,7 @@
-### About me <img src="https://github.com/Lukas-Trisauskas/Lukas-Trisauskas/blob/main/mona-whisper.gif" width="40"/>
-<p>Hey! My name is Lukas. I study Computer Science at the University of Lincoln. My main interests are, software engineering, web development, networking, and embedded programming.</p>
+### About me ✍️
+<blockquote>Hey! My name is Lukas. I study Computer Science at the University of Lincoln. My main interests are, software engineering, web development, networking, and embedded programming.</blockquote>
 
-<img src="https://github.com/Lukas-Trisauskas/Lukas-Trisauskas/blob/main/sketch.png" width="300"/>
+<img src="https://github.com/Lukas-Trisauskas/Lukas-Trisauskas/blob/main/mona-whisper.gif" width="40"/>
 
 - 🔭 I’m currently working on my own personal blog using Python, Django and JavaScript.
 - 🌱 I’m currently learning RESTful API, and TensorFlow
