@@ -1,4 +1,4 @@
-<img src="https://github.com/Lukas-Trisauskas/Lukas-Trisauskas/blob/main/banner.png" />
+<img src="https://github.com/Lukas-Trisauskas/Lukas-Trisauskas/blob/main/me.png" />
 <hr>
 Hey! My name is Lukas. I study Computer Science at the University of Lincoln. My main interests are, software engineering, web development, networking, and embedded programming.
 
