@@ -16,8 +16,8 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=git&logoColor=white">
 </div>
 
-##  About me ✍️
-Hey! My name is Lukas. I study Computer Science at the University of Lincoln. My main interests are, software engineering, web development, networking, and embedded programming.
+## About me
+Hello 👋 My name is Lukas,
 - 🔭 I’m currently working on my blog using Python and Django web framework.
 - 🌱 I’m currently learning RESTful API, and TensorFlow
 - 📫 How to reach me: Lukast1094@gmail.com
