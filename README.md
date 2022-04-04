@@ -19,6 +19,6 @@
 ## About me
 Hello 👋 My name is Lukas,
 - 🔭 I’m currently working on my blog using Python, Django, JavaScript, and Nginx.
-- 🌱 I’m currently learning RESTful API, and TensorFlow.
+- 🌱 I’m currently learning RESTful API, and ANN (Artificial Neural Networks).
 - 📫 How to reach me: Lukast1094@gmail.com.
 - ⚡ Fun fact: If you travel at the speed of light, you could reach Pluto in just four hours.
