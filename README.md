@@ -1,9 +1,3 @@
-
-## Hi 👋 My name is Lukas.
-
-<p align="center">
-  <img src="https://github.com/Lukas-Trisauskas/Lukas-Trisauskas/blob/main/mona-whisper.gif" width="60">
-</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
